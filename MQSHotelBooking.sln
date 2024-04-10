@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MQSBookingService", "MQSBookingService", "{6ED46DE8-89F8-4F77-AB85-1784AC8DD1D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{19E659F0-E5C4-4905-9772-38015F276632}"
@@ -37,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptersTests", "MQSBooking
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationTests", "MQSBookingService\Tests\Application\ApplicationTests\ApplicationTests.csproj", "{EC3A3AB9-1BEA-473E-87B8-CB2B8C996E45}"
 EndProject
+=======
+>>>>>>> b47240f28f72e2a8faaccb275717a362c28e89c0
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +48,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DB856AD2-808B-4371-AFED-0D1525DC799D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB856AD2-808B-4371-AFED-0D1525DC799D}.Debug|Any CPU.Build.0 = Debug|Any CPU
@@ -93,4 +97,6 @@ Global
 		{C71B1EFA-68C3-4D4F-80AF-5D464DE05C02} = {7776D5B8-7522-49A6-A308-DE17100C36E7}
 		{EC3A3AB9-1BEA-473E-87B8-CB2B8C996E45} = {35E938AE-031E-4A9E-A21F-44BD45BC3D8D}
 	EndGlobalSection
+=======
+>>>>>>> b47240f28f72e2a8faaccb275717a362c28e89c0
 EndGlobal
